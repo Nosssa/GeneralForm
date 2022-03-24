@@ -4,7 +4,7 @@ Gui, Add, Text,, ----------------------------------------Piano Music------------
 Gui, Add, Edit, R10 w300 vPianoMusic
 Gui, Add, Text,, 								  F4 To Play Piano Music
 Gui, Add, Text,, 								Press F8 To Suspend/Resume
-Gui, Add, Text,, 								  Edited by WalkerOnly
+Gui, Add, Text,, 								  
 Gui, Show
 F4::
 !F4::
