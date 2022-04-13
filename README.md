@@ -1,6 +1,8 @@
-## Tools
-* Sharp-Keys
-* Drop-Hacks
+## Tools / Other
 * AHK
-* Botnets
+* Drop-Hack
+* Kick-Fix
+* Botnet
 * Booter
+* Sharp-Keys
+* Spoofers
