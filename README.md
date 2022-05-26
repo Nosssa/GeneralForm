@@ -1,8 +1,9 @@
 ## Tools / Other
-* AHK
+* AHKs
 * Drop-Hack
 * Kick-Fix
-* Botnet
-* Booter
+* Botnets
+* Booters
 * Sharp-Keys
 * Spoofers
+* Network-Stress
